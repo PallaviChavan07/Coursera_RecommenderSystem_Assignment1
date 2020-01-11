@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nonpers-assignment.iml" filepath="$PROJECT_DIR$/nonpers-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nonpers-assignment.main.iml" filepath="$PROJECT_DIR$/.idea/modules/nonpers-assignment.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nonpers-assignment.test.iml" filepath="$PROJECT_DIR$/.idea/modules/nonpers-assignment.test.iml" />
+    </modules>
+  </component>
+</project>
